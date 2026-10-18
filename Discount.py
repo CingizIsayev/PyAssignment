@@ -11,6 +11,7 @@ else:
 
 discount_amount = totalpurcahase * discount
 final_amount = totalpurcahase - discount_amount 
+print("Total purchase amount: $", totalpurcahase)
 print("Discount amount: $", discount_amount)
 print("Final amount after discount: $", final_amount)
 print("Alisverise gore oprem brat")

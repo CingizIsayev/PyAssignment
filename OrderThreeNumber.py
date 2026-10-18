@@ -23,4 +23,4 @@ elif b<a and b>c or b>a and b<c:
 else:
     mid = c
 
-print("The numbers in ascending order are:", min, mid , max)
+print("The numbers in ascending order are:", min, mid, max)
